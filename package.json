@@ -1,0 +1,18 @@
+{
+    "name": "AndroidSensorManager",
+    "version": "0.0.1",
+    "description": "sensorManager",
+    "cordova": {
+      "id": "cordova-plugin-sensor-manager",
+      "platforms": [
+        "android"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios"
+    ],
+    "author": "Sangkhim",
+    "license": "ISC"
+  }
